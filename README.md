@@ -15,7 +15,7 @@ npm install
 Then execute the following command
 
 ```bash
-npm run start
+npm start
 ```
 
 for auto-reload on browser
