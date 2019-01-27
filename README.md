@@ -4,7 +4,7 @@ Simple hello world application coding using plain old HTML and CSS.
 
 Any feedback is most welcome 😄
 
-## How to use
+## How to run locally
 
 First install parcel
 
@@ -21,11 +21,19 @@ npm install
 Then execute the following command
 
 ```bash
-npm dev
+npm run dev
 ```
 
-for auto-reload on browser
+for local development
 
+## Production
+
+Run the following command
+
+```bash
+npm run build
+```
+To generate the production assets in the root folder
 
 ## Good to have / Future works
 
