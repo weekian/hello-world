@@ -77,3 +77,6 @@ typings/
 
 # Mac files
 .DS_Store
+
+# Built files
+dist
