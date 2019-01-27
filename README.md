@@ -6,7 +6,13 @@ Any feedback is most welcome 😄
 
 ## How to use
 
-First install the npm modules
+First install parcel
+
+```bash
+npm install -g parcel-bundler
+```
+
+Then install the npm modules
 
 ```bash
 npm install
@@ -15,7 +21,7 @@ npm install
 Then execute the following command
 
 ```bash
-npm start
+npm dev
 ```
 
 for auto-reload on browser
@@ -23,5 +29,6 @@ for auto-reload on browser
 
 ## Good to have / Future works
 
+1. Change parcel to be local package instead of global package
 1. Rewrite in SCSS
 2. Mobile responsive
