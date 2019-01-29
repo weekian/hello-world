@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "rm -rf dist/* && parcel src/index.html -d dist",
     "build": "npm run delete-build && parcel build src/index.html --no-source-maps --public-url . -d .",
-    "delete-build": "rm -f *.png && rm -f *.jpg && rm -f *.jpeg && rm -f *.ico && rm -f *.html && rm -f *.css && rm -f *.map"
+    "delete-build": "rm -f *.png && rm -f *.jpg && rm -f *.jpeg && rm -f *.ico && rm -f *.html && rm -f *.css && rm -f *.map && rm -f style.*.js"
   },
   "repository": {
     "type": "git",
