@@ -50,7 +50,7 @@ header {
 }
 
 main {
-    padding: 80px 25%;
+    padding: 80px 20%;
     line-height: 2;
 
     .profile-pic {
@@ -77,17 +77,18 @@ main {
 
         img {
             border-radius: 200px;
-            max-width: 25%;
-            margin-right: 20px;
+            max-width: 230px;
         }
     
         .left {
             float:left;
+            margin-right: 20px;
         }
 
         .right {
             float: right;
             border: solid grey 1px;
+            margin-left: 20px;
         }
 
         p {
