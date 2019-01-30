@@ -38,5 +38,5 @@ To generate the production assets in the root folder
 ## Good to have / Future works
 
 1. Change parcel to be local package instead of global package
-1. Rewrite in SCSS
+1. ~Rewrite in SCSS~
 2. Mobile responsive
